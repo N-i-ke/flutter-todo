@@ -1,1 +1,39 @@
-.DS_Store
+# Flutter/Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+generated_plugin_registrant.dart
+
+# iOS specific
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+
+# Android specific
+android/.gradle/
+android/app/build/
+
+# IDE specific
+.idea/
+.vscode/
+*.iml
+
+# macOS specific
+*.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Other
+*.log
+*.lock
+*.tmp
+*.swp
+*.bak
+*.original
+*.rej
